@@ -1,0 +1,258 @@
+{
+  "total_grand": 557182000,
+  "total_billable": null,
+  "total_currencies": [
+    {
+      "currency": null,
+      "amount": null
+    }
+  ],
+  "data": [
+    {
+      "id": 158317561,
+      "title": {
+        "project": "Coding Projects",
+        "client": "Fun & Future",
+        "color": "0",
+        "hex_color": "#e36a00"
+      },
+      "time": 10300000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Scripting"
+          },
+          "time": 9137000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-09T16:52:50"
+        },
+        {
+          "title": {
+            "time_entry": "Spot_that_fi"
+          },
+          "time": 1163000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-12T13:36:15"
+        }
+      ]
+    },
+    {
+      "id": 177005400,
+      "title": {
+        "project": "Exercise",
+        "client": "Fun",
+        "color": "0",
+        "hex_color": "#c7af14"
+      },
+      "time": 6823000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Bouldering"
+          },
+          "time": 6823000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-13T18:45:00"
+        }
+      ]
+    },
+    {
+      "id": 177268557,
+      "title": {
+        "project": "Feel Comfortable",
+        "client": "Fun",
+        "color": "0",
+        "hex_color": "#9e5bd9"
+      },
+      "time": 234102000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Relax"
+          },
+          "time": 234102000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-09T13:14:28"
+        }
+      ]
+    },
+    {
+      "id": 176309420,
+      "title": {
+        "project": "Gaming",
+        "client": "Fun",
+        "color": "0",
+        "hex_color": "#2da608"
+      },
+      "time": 2766000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Smash"
+          },
+          "time": 2766000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-12T14:58:05"
+        }
+      ]
+    },
+    {
+      "id": 176309267,
+      "title": {
+        "project": "Necessary",
+        "client": "Future",
+        "color": "0",
+        "hex_color": "#0b83d9"
+      },
+      "time": 27930000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Cooking & Eating"
+          },
+          "time": 12284000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-10T21:26:10"
+        },
+        {
+          "title": {
+            "time_entry": "Grocery shopping"
+          },
+          "time": 522000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-12T14:03:14"
+        },
+        {
+          "title": {
+            "time_entry": "Hygiene"
+          },
+          "time": 3264000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-11T12:51:45"
+        },
+        {
+          "title": {
+            "time_entry": "Morning Routine"
+          },
+          "time": 9458000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-09T12:07:35"
+        },
+        {
+          "title": {
+            "time_entry": "Organizing"
+          },
+          "time": 2402000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-11T14:32:12"
+        }
+      ]
+    },
+    {
+      "id": 176309651,
+      "title": {
+        "project": "Relationships",
+        "client": "Fun",
+        "color": "0",
+        "hex_color": "#d94182"
+      },
+      "time": 41648000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Laura"
+          },
+          "time": 41648000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-09T18:09:23"
+        }
+      ]
+    },
+    {
+      "id": 176309103,
+      "title": {
+        "project": "Sleep",
+        "client": "Sleep",
+        "color": "0",
+        "hex_color": "#525266"
+      },
+      "time": 233613000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Sleep"
+          },
+          "time": 233613000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2022-02-09T07:00:00"
+        }
+      ]
+    }
+  ]
+}

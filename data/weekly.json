@@ -1,0 +1,281 @@
+{
+  "total_grand": 557182000,
+  "total_billable": null,
+  "total_currencies": [
+    {
+      "currency": null,
+      "amount": null
+    }
+  ],
+  "data": [
+    {
+      "title": {
+        "client": "Fun",
+        "project": "Exercise",
+        "color": "0",
+        "hex_color": "#c7af14"
+      },
+      "pid": 177005400,
+      "totals": [
+        null,
+        null,
+        null,
+        null,
+        6823000,
+        null,
+        null,
+        6823000
+      ],
+      "details": [
+        {
+          "uid": 5298429,
+          "title": {
+            "user": "Huy"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            6823000,
+            null,
+            null,
+            6823000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Fun",
+        "project": "Feel Comfortable",
+        "color": "0",
+        "hex_color": "#9e5bd9"
+      },
+      "pid": 177268557,
+      "totals": [
+        13101000,
+        47099000,
+        44406000,
+        48232000,
+        46190000,
+        26919000,
+        8155000,
+        234102000
+      ],
+      "details": [
+        {
+          "uid": 5298429,
+          "title": {
+            "user": "Huy"
+          },
+          "totals": [
+            13101000,
+            47099000,
+            44406000,
+            48232000,
+            46190000,
+            26919000,
+            8155000,
+            234102000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Fun",
+        "project": "Gaming",
+        "color": "0",
+        "hex_color": "#2da608"
+      },
+      "pid": 176309420,
+      "totals": [
+        null,
+        null,
+        null,
+        2766000,
+        null,
+        null,
+        null,
+        2766000
+      ],
+      "details": [
+        {
+          "uid": 5298429,
+          "title": {
+            "user": "Huy"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            2766000,
+            null,
+            null,
+            null,
+            2766000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Fun",
+        "project": "Relationships",
+        "color": "0",
+        "hex_color": "#d94182"
+      },
+      "pid": 176309651,
+      "totals": [
+        28237000,
+        4158000,
+        null,
+        null,
+        null,
+        9253000,
+        null,
+        41648000
+      ],
+      "details": [
+        {
+          "uid": 5298429,
+          "title": {
+            "user": "Huy"
+          },
+          "totals": [
+            28237000,
+            4158000,
+            null,
+            null,
+            null,
+            9253000,
+            null,
+            41648000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Fun & Future",
+        "project": "Coding Projects",
+        "color": "0",
+        "hex_color": "#e36a00"
+      },
+      "pid": 158317561,
+      "totals": [
+        4590000,
+        null,
+        null,
+        1163000,
+        null,
+        4547000,
+        null,
+        10300000
+      ],
+      "details": [
+        {
+          "uid": 5298429,
+          "title": {
+            "user": "Huy"
+          },
+          "totals": [
+            4590000,
+            null,
+            null,
+            1163000,
+            null,
+            4547000,
+            null,
+            10300000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Future",
+        "project": "Necessary",
+        "color": "0",
+        "hex_color": "#0b83d9"
+      },
+      "pid": 176309267,
+      "totals": [
+        4013000,
+        2317000,
+        13633000,
+        3303000,
+        2186000,
+        2478000,
+        null,
+        27930000
+      ],
+      "details": [
+        {
+          "uid": 5298429,
+          "title": {
+            "user": "Huy"
+          },
+          "totals": [
+            4013000,
+            2317000,
+            13633000,
+            3303000,
+            2186000,
+            2478000,
+            null,
+            27930000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Sleep",
+        "project": "Sleep",
+        "color": "0",
+        "hex_color": "#525266"
+      },
+      "pid": 176309103,
+      "totals": [
+        35554000,
+        33300000,
+        28778000,
+        28997000,
+        30126000,
+        37972000,
+        38886000,
+        233613000
+      ],
+      "details": [
+        {
+          "uid": 5298429,
+          "title": {
+            "user": "Huy"
+          },
+          "totals": [
+            35554000,
+            33300000,
+            28778000,
+            28997000,
+            30126000,
+            37972000,
+            38886000,
+            233613000
+          ]
+        }
+      ]
+    }
+  ],
+  "week_totals": [
+    85495000,
+    86874000,
+    86817000,
+    84461000,
+    85325000,
+    81169000,
+    47041000,
+    557182000
+  ]
+}
